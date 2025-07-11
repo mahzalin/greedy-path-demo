@@ -1,0 +1,4 @@
+networkx>=3
+matplotlib
+pydot             # only if you plan to use --layout dot
+graphviz          # system package; needs installing separately
